@@ -78,3 +78,25 @@ console.log(lista3);*/
 Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in posizione dispari
 
 */
+
+/*var numeri = [2, 7, 1, 13, 150, 13, 8];
+
+var totale = 0;
+
+for (var i = 0; i < numeri.length; i++) {
+    console.log( numeri[i] );
+    console.log( 'Posizione: ', i );
+
+    if ( i % 2 !== 0 ) {
+        totale += numeri[i];
+    } 
+}
+
+console.log('Tot: ', totale);*/
+
+
+/**
+ 
+ 
+
+ */
