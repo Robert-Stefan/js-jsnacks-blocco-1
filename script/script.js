@@ -73,7 +73,7 @@ while ( counter < max ) {
 console.log(lista3);*/
 
 
-/** Snack 4
+/* Snack 4
 
 Crea un array di numeri interi e fai la somma di tutti gli elementi che sono in posizione dispari
 
@@ -95,8 +95,23 @@ for (var i = 0; i < numeri.length; i++) {
 console.log('Tot: ', totale);*/
 
 
-/**
+/* Snack 5 - Bonus
  
- 
+Crea due array di numeri che hanno un numero di elementi diversi.
+Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro. 
 
- */
+*/
+
+/*var numeri1 = [1,3,5,8,4];
+console.log(numeri1);
+
+var numeri2 = [1,4];
+console.log(numeri2);
+
+while (numeri2.length < numeri1.length) {
+
+    numeri2.push(Math.floor(Math.random() * 30) );
+
+}
+
+console.log(numeri2);*/
